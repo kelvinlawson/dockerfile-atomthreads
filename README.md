@@ -1,5 +1,5 @@
 Atomthreads RTOS Build & Simulation Environment
-===============================================
+-----------------------------------------------
 
 Build & simulation environment for Atomthreads RTOS [ARM QEMU & DaVinci DM365/DM368, AVR]
 
