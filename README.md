@@ -9,4 +9,4 @@ Ubuntu Packages: qemu-system-arm, gcc-avr, binutils-avr, avr-libc, git, build-es
 
 External packages: simavr, arm2009-q3, MontaVista DM36x tools
 
-Simavr is based on Git ref b2fd603f4aca04fd83d4dae6310067c406410998
+Simavr is based on Git ref 90da54280f2ff2d91f2e51f41a5e747c56db6f94
